@@ -319,7 +319,9 @@ img {
 .work-list {
   --item: 3;
 }
-
+.work-item {
+  max-height: 294px;
+}
 .work-overlay-text {
   display: flex;
   align-items: center;
